@@ -2,7 +2,7 @@
 
 # Desenvolvedor WEB focado em front-end
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,cs,nodejs,css,github,html,obsidian,py,vite,vscode&theme=light)](https://skillicons.dev)
 
 <!--
 **RyckLu/RyckLu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
